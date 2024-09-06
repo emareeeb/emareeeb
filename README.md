@@ -1,10 +1,6 @@
 # 👋 **Hey there!** Nice to see you here! 😊
 
 ---
-### 🌱 What’s Cooking?
-- Brewing up an AI assistant that talks like a pro and learns on the go.
-- Also tinkering with hand gestures—because who doesn’t want to control computers with a wave?
-
 ### 🤝 Team-Up Ideas?
 - If you’ve got AI challenges or love data crunching, let’s join forces.
 - Open-source data wizards, I’m looking at you—let’s make magic!
@@ -12,10 +8,6 @@
 ### 🙋‍♂️ Could Use a Hand With...
 - Teaching machines to be even smarter.
 - Making big data dance with Hadoop and Spark.
-
-### 📚 What’s in the Study Hall?
-- Deep diving into machine learning and data science technologies.
-- Sharpening my skills in AI model magic.
 
 ### 💬 Got Questions?
 - Hit me up about data mysteries or making AI assisted full-stack dreams come true—especially if you love sleek designs.
